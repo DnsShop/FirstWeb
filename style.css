@@ -4,11 +4,11 @@ border: dashed red;
 }
 
 .but {
-  color: #fff; /* цвет текста */
+  color: #008B8B; /* цвет текста */
   text-decoration: none; /* убирать подчёркивание у ссылок */
   user-select: none; /* убирать выделение текста */
-  background: rgb(212,75,56); /* фон кнопки */
-  padding: 2,5em; /* отступ от текста */
+  background: rgb(139,0,0); /* фон кнопки */
+  padding: 5em; /* отступ от текста */
   outline: none; /* убирать контур в Mozilla */
   a.knopka:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
   a.knopka:active { background: rgb(152,15,0); } /* при нажатии */
