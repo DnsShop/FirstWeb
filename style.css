@@ -8,7 +8,7 @@ border: dashed red;
   text-decoration: none; /* убирать подчёркивание у ссылок */
   user-select: none; /* убирать выделение текста */
   background: rgb(139,0,0); /* фон кнопки */
-  padding: 5em; /* отступ от текста */
+  padding: 1em; /* отступ от текста */
   outline: none; /* убирать контур в Mozilla */
   a.knopka:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
   a.knopka:active { background: rgb(152,15,0); } /* при нажатии */
